@@ -1,0 +1,9 @@
+build/*
+!build/.gitkeep
+
+install/*
+!install/.gitkeep
+
+*.bak
+*.pyc
+/install-3.0.0/
