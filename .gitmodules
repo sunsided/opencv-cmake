@@ -1,0 +1,8 @@
+[submodule "opencv"]
+	path = opencv
+	url = git@github.com:sunsided/opencv.git
+    branch = 3.1.0
+[submodule "contrib"]
+	path = contrib
+	url = git@github.com:sunsided/opencv_contrib.git
+    branch = 3.1.0
